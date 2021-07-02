@@ -1,0 +1,294 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FirstSubRoutineProgram",
+            "request": "launch",
+            "mainClass": "ICS3U.FirstSubRoutineProgram",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximumArray",
+            "request": "launch",
+            "mainClass": "ICS3U.MaximumArray",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch whileloop",
+            "request": "launch",
+            "mainClass": "ICS3U.whileloop",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysIntro",
+            "request": "launch",
+            "mainClass": "ICS3U.ArraysIntro",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stars1",
+            "request": "launch",
+            "mainClass": "ICS3U.Stars1",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountingProgram",
+            "request": "launch",
+            "mainClass": "ICS3U.CountingProgram",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch DLicense",
+            "request": "launch",
+            "mainClass": "ICS3U.DLicense",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstSelection",
+            "request": "launch",
+            "mainClass": "ICS3U.FirstSelection",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForLoops1",
+            "request": "launch",
+            "mainClass": "ICS3U.ForLoops1",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreaterNumber",
+            "request": "launch",
+            "mainClass": "ICS3U.GreaterNumber",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Marks",
+            "request": "launch",
+            "mainClass": "ICS3U.Marks",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiplication",
+            "request": "launch",
+            "mainClass": "ICS3U.Multiplication",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch PositiveorNegative",
+            "request": "launch",
+            "mainClass": "ICS3U.PositiveorNegative",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValueInteger",
+            "request": "launch",
+            "mainClass": "ICS3U.ValueInteger",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Weekday",
+            "request": "launch",
+            "mainClass": "ICS3U.Weekday",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMeCatarina",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_1.AboutMeCatarina",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyFirstProgram",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_1.MyFirstProgram",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch OldMacDonald",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_1.OldMacDonald",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimplePatternInicials",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_1.SimplePatternInicials",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimplePatternJava",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_1.SimplePatternJava",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoreVariablesAndPrinting",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_2.MoreVariablesAndPrinting",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Restaurant",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_2.Restaurant",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch StickFigure2",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_2.StickFigure2",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch StickFigureName",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_2.StickFigureName",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variables",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_2.Variables",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaOfTriangle",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.AreaOfTriangle",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch AskingQuestions",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.AskingQuestions",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputerMonitorCombo",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.ComputerMonitorCombo",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiplication(1)",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.Multiplication",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyramid",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.Pyramid",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Radius",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.Radius",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rectangle",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.Rectangle",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sales",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.Sales",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerDoublePractice",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.ScannerDoublePractice",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerIntPractice",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.ScannerIntPractice",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerStringPractice",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.ScannerStringPractice",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpeedOfAnObject",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.SpeedOfAnObject",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfDigits",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.SumOfDigits",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserInputInfo",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.UserInputInfo",
+            "projectName": "ICS3U_c5846be4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Welcome",
+            "request": "launch",
+            "mainClass": "JavaBasicsUnit1.JavaBasicsUnit1.Lesson_3.Welcome",
+            "projectName": "ICS3U_c5846be4"
+        }
+    ]
+}
